@@ -8,6 +8,10 @@
 	font-style: normal;
 	font-size: x-large;
 	text-align: center;
+  	background-image: url("http://jpnterengganu.moe.gov.my/bm/images/demo/slideshow/revolutionslider/background8.jpg");
+  	background-position: 50% 50%;
+  	background-repeat: no-repeat;
+}
 }
 #header {
 	background-color: white;
