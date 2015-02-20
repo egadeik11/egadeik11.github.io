@@ -6,7 +6,7 @@ body {
 	text-align: left;
 	font: 12px Arial, Helvetica, sans-serif;
 	font-size: 13px;
-	color:#06C;
+	color:black;
 	background: #EEEFE4;
 	background-image:url(http://www.pulsarwallpapers.com/data/media/3/Alien%20Ink%202560X1600%20Abstract%20Background.jpg);
 	background-repeat:repeat-x;
@@ -59,9 +59,6 @@ height:100px;
 color: #FC3;
 	
 }
-
-
-
 
 #menu
 {
@@ -120,11 +117,6 @@ height:auto;
 
 #menu a:hover{
 	color:#BEE399;
-}
-
-#content p
-{
-	
 }
 
 
