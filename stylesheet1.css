@@ -1,8 +1,64 @@
-*body{
-	background-color: white;
-	alignment-adjust: center;
-	color: #333333;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	font-style: normal;
-	font-size: x-large;
-	text-align: center;
+@charset "utf-8";
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color:#06C;
+	background: #EEEFE4;
+	background-image:url(http://www.pulsarwallpapers.com/data/media/3/Alien%20Ink%202560X1600%20Abstract%20Background.jpg);
+	background-repeat:repeat-x;
+}
+* {
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+#container {
+  display: block; 
+  height:auto;
+  position: relative; 
+  width: 940px;
+}
+
+#mainpic h1 {
+position:absolute;
+text-align:right;
+color: #0F0;
+font-size:30px;
+color: #FFF;	
+left:60px;
+top:20px;
+}
+
+
+#mainpic h2 {
+position:absolute;
+text-align:right;
+color: #FFF;	
+left:60px;
+top:50px;
+}
+
+#mainpic
+{
+background-image:url(images/main.jpg);
+background-repeat:no-repeat;
+width:900px;
+height:354px;	
+}
+
+.off {
+color: #FC3;
+	
+}
+
+#menu {
+background-color: #E1E7F7
+background-repeat:no-repeat;
+width:940px;
+height:69px;
+float:left;
+clear:both;
+}
